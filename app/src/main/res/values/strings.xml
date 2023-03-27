@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">MentalDiff</string>
+    <string name="btn_jouer">Jouer</string>
+    <string name="btn_highscore">HighScore</string>
+    <string name="btn_apropos">A propos</string>
+
+    <string name="text_view_resoudre">Résoudre : </string>
+    <string name="input_reponse">Votre réponse</string>
+    <string name="btn_valider">Valider</string>
+
+    <string name="toolbar_score">Score : </string>
+    <string name="toolbar_vie">Vie : </string>
+    <string name="toolbar_recommencer">Recommencer</string>
+    <string name="toolbar_niveau">Difficulté : </string>
+    <string name="toolbar_niveauF">Facile</string>
+    <string name="toolbar_niveauM">Moyen</string>
+    <string name="toolbar_niveauH">Extrême</string>
+
+    <string name="message_defaite">Vous n\'avez plus de vie !</string>
+    <string name="input_pseudo">Saisir votre pseudo..</string>
+
+    <string name="btn_quitter">Quitter</string>
+    <string name="btn_register">S\'enregistrer !</string>
+
+    <string name="INPUTPSEUDOVIDE">Saisir un pseudo !</string>
+    <string name="SCORECREE">Score ajouté avec succès !</string>
+
+    <string name="INFOPERSO" translatable="false">
+        Gaël GROSSET G2\n\n
+        Fontionnalités :\n\n
+        - Bouton qui permet de recommencer de zéro la partie (toolbar)\n\n
+        - Bouton qui permet de changer la difficulté (toolbar) :\n
+            -> Facile, valeur [min : 1 - max : 100]\n
+            -> Moyen, valeur [min : 1 - max : 500]\n
+            -> Extrême, valeur [min : 1 - max : 999]\n
+    </string>
+
+</resources>

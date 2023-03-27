@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_jouer">Play</string>
+    <string name="btn_highscore">HighScore</string>
+    <string name="btn_apropos">About us</string>
+
+    <string name="text_view_resoudre">Résoudre : </string>
+    <string name="input_reponse">Your answer</string>
+    <string name="btn_valider">Validate</string>
+
+    <string name="toolbar_score">Score : </string>
+    <string name="toolbar_vie">Life : </string>
+    <string name="toolbar_recommencer">Restart</string>
+    <string name="toolbar_niveau">Level : </string>
+    <string name="toolbar_niveauF">Easy</string>
+    <string name="toolbar_niveauM">Medium</string>
+    <string name="toolbar_niveauH">Hard</string>
+
+    <string name="message_defaite">You have no more life!</string>
+    <string name="input_pseudo">Enter your pseudo ..</string>
+
+    <string name="btn_quitter">Leave</string>
+    <string name="btn_register">Register !</string>
+
+    <string name="INPUTPSEUDOVIDE">Enter a nickname !</string>
+    <string name="SCORECREE">Score successfully added!</string>
+
+</resources>
