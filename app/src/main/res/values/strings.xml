@@ -28,6 +28,7 @@
     <string name="INFOPERSO" translatable="false">
         Gaël GROSSET G2\n\n
         Fontionnalités :\n\n
+        - Langue Français-Anglais\n\n
         - Bouton qui permet de recommencer de zéro la partie (toolbar)\n\n
         - Bouton qui permet de changer la difficulté (toolbar) :\n
             -> Facile, valeur [min : 1 - max : 100]\n
